@@ -1,0 +1,61 @@
+
+  /*.Menu_H{
+    background-color: #333333;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -14px;
+    margin-bottom: 0px;
+  }*/
+
+  .imgWrapper{
+   /* background-color: #facfcf;
+    height: 594px;
+    width: 100%;*/
+  }
+
+  /* .puxar{
+      
+      margin-bottom: 10px;
+      background-color: #251717;
+      height: 100px;
+      width: 100%;
+  }
+
+ .instagram-phone img {
+    height: 50rem;
+}*/
+/**/
+
+body {background-color: powderblue;}
+
+
+    img {
+    /*background-color: #facfcf;*/
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: #b8b2b2;
+   
+  }
+
+  li a:hover {
+    background-color: #fdcccc;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: left;
+    text-decoration: none;
+    padding: 15px;
+  }
